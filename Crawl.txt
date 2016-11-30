@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="503" startPos="1230" endPos="1230" selMode="0" lang="Python" encoding="-1" filename="C:\Python35\Scripts\pyfund\words.py" backupFilePath="" originalFileLastModifTimestamp="1480446335" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="224" startPos="49" endPos="49" selMode="0" lang="Python" encoding="-1" filename="C:\Python35\Scripts\pyfund\scopes.py" backupFilePath="" originalFileLastModifTimestamp="1480450218" />
+            <File firstVisibleLine="42" xOffset="0" scrollWidth="882" startPos="3272" endPos="3272" selMode="0" lang="Python" encoding="-1" filename="C:\Users\petersonk\Google Drive\Dungeon Crawl\Notes.py" backupFilePath="" originalFileLastModifTimestamp="1480524368" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="525" startPos="215" endPos="215" selMode="0" lang="Python" encoding="-1" filename="C:\Users\petersonk\Google Drive\Dungeon Crawl\Combat Calcs.txt" backupFilePath="" originalFileLastModifTimestamp="1480525125" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
