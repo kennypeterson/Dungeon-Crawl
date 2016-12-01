@@ -33,23 +33,28 @@ Examine lines:
 	key = "You examine the key."
 		"It's a well-worn brass key. The tip is rather simple."
 		"The head of the key has a small number [] on it."
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	room = "You examine the room."
 		"It's a medium sized stone-walled room. The walls are damp with condensation."
+		
 Eat lines:
 	cheese wheel - "Eat cheese wheel?" (y or n to confirm)
 		(y) - "You sheath your sword and begin to take bites out of the massive wheel of cheese. You get about half way through before you realize this was probably not a smart idea..." (continue to eat?)
 			(y) - "You take a breathe before you stuff your face back down into the aromatic cheese. As you hesitantly swallow the last bite, you feel accomplished and noticably heavier."
 			(n) - "You step back from the wheel of cheese feeling disgusted with yourself."
 		(n) - "You decide not to eat the cheese wheel."
+	stone - "Eat the stone?" (y or n to continue)
+		(y) - "You bit down hard on the stone, breaking several teeth. You taste iron."
+		(n) - "You decide not to eat the stone."
+	pebble - "Eat the pebble?" (y or n to continue)
+		(y) - "You toss the pebble into your mouth and swallow it quickly."
+		(n) - "You decide not to eat the pebble."
 	rock - "Eat the rock?" (y or n to continue)
-		(y) - "You bit down hard on the rock, breaking several teeth. You taste iron."
+		(y) - "The rock is too big and lacks edges to bite. You suffice to lick it; unsurprisingly, it tastes like dirt."
 		(n) - "You decide not to eat the rock."
+	boulder - "Eat the boulder?" (y or n to continue)
+		(y) - "You look around the boulder for a place to bite down on but it's simply to big and round."
+		(n) - "You decide not to eat the boulder."
+	hammer - "Eat the hammer?"
+		(y) - "You gnaw purposelessly on the leather covered wooden handle but your teeth aren't sharp enough to cut through."
+		(n) - "You decide not to eat the hammer."
+	
