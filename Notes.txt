@@ -1,12 +1,20 @@
 character properties
 	name = "user chosen character name"
 	class = "multi-prop list"
-	moveset = "list of moves; attack (subbed from weapon), defend (subbed from shield), item, magic"
-	items = "list of items currently held; max based on weight/size of items?"
-	equipped_armor = "currently worn armor; contributes to base_defense, effects agility"
-	equipped_weapon = "everything has a value, some negative"
-	injury = "subbed to type of injury"
-	dominant_hand = "choose your sword hand"
+	#Removing the moveset command, me no likey idea of suggesting moves to players
+	# moveset = "list of moves; attack (subbed from weapon), defend (subbed from shield), item, magic"
+	items = "array of items currently in bag or on person; presented in summary text format"
+	
+	"You have a sword and shield equipped. You are wearing leather armor. In your bag you have a small rock,"
+	"and a small empty vial"
+	
+	#Implement as a later date
+	# equipped_armor = "currently worn armor; contributes to base_defense, effects agility"
+	# equipped_weapon = "everything has a value, some negative"
+	# injury = "subbed to type of injury"
+	
+	#Implement at a wayyyy later date
+	# dominant_hand = "choose your sword hand"
 	
 	
 class properties "defined once, non-global"
@@ -57,13 +65,18 @@ List of Acceptable General commands = "could be used at anytime"
 			yell/scream what?
 		stop, freeze, dont move, stand still = "small chance for enemy to not see you when passing"
 		look, look around, examine = "prompt for subject, never consumes turn"
-		open bag, open pack = "opens bag and lists items inside"
+		open bag, open pack, look in bag = "opens bag and lists items inside"
 		equip = "change the item you're holding"
 		listen = "uh... i guess you just listen for something"
 		peek = "peek around corners, over ledges, or through keyholes"
 		search, loot = "search local surroundings or corpse"
+		take, pick up,  = "take a found object, stores in pack automatically"
+		eat, bite = "take a bite out of crime!"
+		smell, sniff = "smell an object or the area"
 		
-	
+		
+		
+		
 	Combat Commands
 		flee = "run command specific to being in a fight"
 			run
