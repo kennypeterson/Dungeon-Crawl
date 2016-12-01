@@ -57,4 +57,7 @@ Eat lines:
 	hammer - "Eat the hammer?"
 		(y) - "You gnaw purposelessly on the leather covered wooden handle but your teeth aren't sharp enough to cut through."
 		(n) - "You decide not to eat the hammer."
-	
+	key - "Eat the key?"
+		(y) - "You throw your head back and drop the key down your throat."
+		(n) - "You decide not to eat the key."
+		
