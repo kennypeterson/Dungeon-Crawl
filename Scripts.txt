@@ -1,0 +1,17 @@
+Scripts
+
+Examine lines:
+	cheese wheel - "You examine the cheese wheel." (command confirmation)
+		"It's huge. You might be able to carry it if you sheithed your sword."
+		"It's about 2 feet in diameter. This would make a mouse very happy."
+		"You've never seen this much cheese in one place..."
+		""
+	rock = "You examine the rock."
+		""
+		
+Eat lines:
+	cheese wheel - "Eat cheese wheel?" (y or n to confirm)
+		"You sheath your sword and begin to take bites out of the massive wheel of cheese. You get about half way through before you realize this was probably not a smart idea..." (continue to eat?)
+		(y) - "You take a breathe before you stuff your face back down into the aromatic cheese. As you hesitantly swallow the last bite, you feel accomplished and noticably heavier."
+		(n) - "You step back from the wheel of cheese feeling disgusted with yourself."
+		
