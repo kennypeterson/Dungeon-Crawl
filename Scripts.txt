@@ -2,16 +2,54 @@ Scripts
 
 Examine lines:
 	cheese wheel - "You examine the cheese wheel." (command confirmation)
-		"It's huge. You might be able to carry it if you sheithed your sword."
+		"It's huge. You might be able to carry it if you sheathed your sword."
 		"It's about 2 feet in diameter. This would make a mouse very happy."
 		"You've never seen this much cheese in one place..."
 		""
-	rock = "You examine the rock."
+	pebble = "You examine the rock."
+		"It's a small smooth pebble that fits nicely in the palm of your hand."
 		""
+	stone = "You examine the rock."
+		"It's a sharp-edged stone about the size on your head. You could probably throw it."
+		""		
+	rock = "You examine the rock."
+		"It's a good-sized rock. You could probably move it."
+		""		
+	boulder = "You examine the rock."
+		"It's not a boulder! It's a rock."
+		"The pioneers used to ride these for miles."
+		"A massive carved boulder with rounded divets all over its surface. It's far too big to move."
+	hammer = "You examine the hammer."	
+		"It's a crudely crafted hammer. The grip of the handle is worn from use."
+		"The metal of the head is stained dark red."
+		"The handle is wrapped with dark tattered leather."
+	metal rod = "You examine the metal rod."
+		"It's a slender metal rod, about a foot long and the thickness of your finger."
+		"The ends of the rod are roughly pointed."
+		"It has a slight bend that keeps it from rolling."
+	string = "You examine the string."
+		"It's a very thin length of white string. Perhaps a stray from a piece of clothing."
+		""
+	key = "You examine the key."
+		"It's a well-worn brass key. The tip is rather simple."
+		"The head of the key has a small number [] on it."
 		
+		
+		
+		
+		
+		
+		
+		
+		
+	room = "You examine the room."
+		"It's a medium sized stone-walled room. The walls are damp with condensation."
 Eat lines:
 	cheese wheel - "Eat cheese wheel?" (y or n to confirm)
-		"You sheath your sword and begin to take bites out of the massive wheel of cheese. You get about half way through before you realize this was probably not a smart idea..." (continue to eat?)
-		(y) - "You take a breathe before you stuff your face back down into the aromatic cheese. As you hesitantly swallow the last bite, you feel accomplished and noticably heavier."
-		(n) - "You step back from the wheel of cheese feeling disgusted with yourself."
-		
+		(y) - "You sheath your sword and begin to take bites out of the massive wheel of cheese. You get about half way through before you realize this was probably not a smart idea..." (continue to eat?)
+			(y) - "You take a breathe before you stuff your face back down into the aromatic cheese. As you hesitantly swallow the last bite, you feel accomplished and noticably heavier."
+			(n) - "You step back from the wheel of cheese feeling disgusted with yourself."
+		(n) - "You decide not to eat the cheese wheel."
+	rock - "Eat the rock?" (y or n to continue)
+		(y) - "You bit down hard on the rock, breaking several teeth. You taste iron."
+		(n) - "You decide not to eat the rock."
