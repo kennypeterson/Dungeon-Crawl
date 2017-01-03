@@ -93,34 +93,192 @@ List of Acceptable General commands = "could be used at anytime"
 		size of area
 		items in area
 		contains danger? (has enemy/ies)
+		is it lit fam?
+		
 		
 	Item Ideas
 		Weapons Ideas
 			shiv
+				Desc: A crudely crafted sharpened metal shard with a point on one end a blunt end with cloth wrapped around it on the other.
+				Desc: This makeshift weapon is easy to conseal due to it's small form and light weight.
+				Weight:
+				Value:
 			dagger
+				Desc: A basic sharpened weapon popular among theives and highwaymen alike. It has a short straight blade and leather wrapped tang.
+				Weight:
+				Value:
 			serrated knife
+				Desc: A knife most would find in a kitchen that has grooves carved out in the edge of the blade as to inflict more damage.
+				Weight:
+				Value:
 			meat cleaver
+				Desc: A heavy butchers knife with a solid thick blade half as wide as it is long. There's a singular hole in the corner adjacent to the handle.
+				Weight:
+				Value:
 			frying pan
+				Desc: An unwieldy cast iron pan with a relatively thin handle. Better to cook a meal than to use as a weapon.
+				Weight:
+				Value:
 			soup ladle
-			throwing knives (-1 per attack)
+				Desc: A kitchen tool used to scoop soup out of a pot.
+				Weight:
+				Value:
+			throwing knives (-1 per attack, recoverable) 
+				Desc: A dagger-like blade with a thin handle used for throwing at targets.
+				Weight:
+				Value:
 			rotten branch
+				Desc: A thick fungus-ridden branch from a tree long forgotten. The wood behind the bark is brittle and spongey.
+				Weight:
+				Value:
 			wooden board
+				Desc: A sturdy board of milled wood perhaps from a table or cabinet. Its covered in a thick layer of dirt.
+				Weight:
+				Value:
 			spiked board
+				Desc: A broad board with several nails pertruding from one end and a crude handle of cloth wrapped around around the other.
+				Weight: 
+				Value:
 			chain-wrapped board
+				Desc: A weaponized wooden board with a chain wrapped around one end to deliver a heavier blow.
+				Weight:
+				Value:
 			woodcutter's axe
+				Desc: An old steel-headed axe previously used to chop firewood, now stained with crimson streaks from tip to tail.
+				Weight:
+				Value:
 			smith's hammer
+				Desc: A heavy steel hammer previously used to form metal over an anvil, now scarred by obvious impact with flesh and bone.
+				Weight:
+				Value:
 			iron sword
+				Desc: A standard iron broadsword with a leather-wrapped tang. It fits loosely in it's sheath from years or wear.
+				Weight:
+				Value:
 			steel sword
+				Desc: A finely sharpened steel sword with a leather wrapped tang. The metal has been tempered to hardness.
+				Weight:
+				Value:
 			moon-forged sword (special effect?)
+				Desc: 
+				Weight:
+				Value:
 			sun-forged sword (special effect?)
+				Weight:
+				Value:
 			war axe
+				Weight:
+				Value:
 			greatsword
+				Weight:
+				Value:
 			warhammer
+				Weight:
+				Value:
 			whip
+				Weight:
+				Value:
 			cat-o-9-tails
+				Weight:
+				Value:
 			The Pen (just a pen but mightier than the sword)
+				Weight:
+				Value:
+			
+		Armor/clothing Ideas
+			helmets
+			chestpiece
+			bracers
+			gloves
+			gauntlets
+			boots
+			shoes
+			pants
+			leg armor 
+			shoulder piece
+			forearm guards
+			shin guards
+			mask
+			hood
+			cloak
+			cape
+			
+		Food Item Ideas
+			Apples
+				Desc: A bright red tree fruit that's sweet and crisp in the summer and tart and juicy in the winter.
+				Weight:
+				Value:
+			Honeyfruit
+				Desc: A small round yellow tough-skinned fruit with a tender and sweet pulp inside. Their pits are often ground in poltices.
+				Weight:
+				Value:
+			Redberries
+				Desc: A tiny red berry that grows in bunches on bushes. Their taste is unpalatable raw but when cooked, their juice is often used to sweeten mead.
+				Weight:
+				Value:
+			Tereth
+				Desc: A root like vegatable with earthy and hearty flavor. It's often used in soups and stews, in which it becomes tender and absorbs the broths flavor.
+				Weight:
+				Value:			
+			Mead
+				Desc: A mixture of fermented honey and grain with redberry juice for flavor. Best served warm.
+				Weight:
+				Value:
+			Brelk
+				Desc: A beer-like drink made in huge barrels to serve to the masses around holidays.
+				Weight:
+				Value:
+			Bread
+				Desc: A small single serving-sized loaf of wheat bread. It's outside is flaky and produces a lot of crumbs.
+				Weight:
+				Value:
+			Cheese Wedge
+				Desc: A small section from a large wheel of cheese. It has a bold scent and flavor. 
+				Weight:
+				Value:
+			Tereth Soup
+				Desc: A chunky mixture of vegatables and savory herbs. It's smells remind you of home.
+				Weight:
+				Value:
+			Wheat Crackers
+				Desc: A thin and crispy wheat-based cracker. It's sprinkled with a small amount of salt.
+				Weight:
+				Value:
+			Colba Tree Nuts
+				Desc: A hard shelled nut with a meaty inside used to top pastries and cakes.
+				Weight:
+				Value:
 			
 			
+		Alchemical Item Ideas
+			
+			Alchemical Kit
+				- includes 7 vials and a mortar and pestle
+				- vials are required to put mixtures in or to gather ingredients (except water)
+				- ingredients gathered into vials weight nothing
+				- consume water to reuse vials
+			
+			Ingredients
+				rotten root
+				bone powder
+				gold dust
+				blood
+				ink
+				blue blossom
+				white mushroom
+				ivy leaf
+				water
+				shadow ashes
+				pearl powder
+				charcoal
+				ground honeyfruit pit
+				
+			Recipes
+				blue blossom + water + bone powder = healing salve
+				ivy leaf + blood + rotten root = poison
+				gold dust + shadow ashes + pearl powder = repair powder
+				
+				
 		
 		Random Item Ideas
 			child's doll
@@ -128,8 +286,13 @@ List of Acceptable General commands = "could be used at anytime"
 			lantern
 			torch
 			table
+			pedestal
+			shrine
+			altar
 			desk (container)
 			chair
+			books
+			tomes
 			throne
 			chest (container)
 			cabinet (container)
@@ -138,7 +301,7 @@ List of Acceptable General commands = "could be used at anytime"
 			shelves (container)
 			bookcase (container)
 			showcase (container)
-			mimic?
+			vial (container)
 			campfire
 			log bench
 			logs
@@ -155,6 +318,8 @@ List of Acceptable General commands = "could be used at anytime"
 			cup (container)
 			moss
 			mold
+			charcoal
+			ashes
 			water (gatherable from containers)
 			dirt (gatherable from containers)
 			mud (gatherable from containers)
@@ -175,13 +340,18 @@ List of Acceptable General commands = "could be used at anytime"
 			shackles
 			chains
 			ball
+			lever
+			hidden lever
+			torch sconce
+			
+			
 			
 			
 			
 			
 			
 		Backpack Defaults (not much, the basics for survival; room for upgrading all aspects + the pack itself)
-			Backpack Size: 30 units (23 used by default)
+			Backpack Size: 40 units (25 used by default)
 			
 			Assorted Food
 				Bread
@@ -212,6 +382,10 @@ List of Acceptable General commands = "could be used at anytime"
 				Size: 2 units
 				Weight: 1 lbs
 				Vaule: 60 gold
+			Alchmical Kit (7 vials + mortar-pestle)
+				Size: 2 units
+				Weight: 2 lbs
+				Value: 50 gold
 				
 		Strict Money Makers (these hold no other purpose than to raise score/gold)
 			Ring (Base) 20 gold
