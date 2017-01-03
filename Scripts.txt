@@ -43,7 +43,7 @@ Eat lines:
 			(n) - "You step back from the wheel of cheese feeling disgusted with yourself."
 		(n) - "You decide not to eat the cheese wheel."
 	stone - "Eat the stone?" (y or n to continue)
-		(y) - "You bit down hard on the stone, breaking several teeth. You taste iron."
+		(y) - "You bit down hard on the stone, breaking several teeth. The taste of iron fills your mouth."
 		(n) - "You decide not to eat the stone."
 	pebble - "Eat the pebble?" (y or n to continue)
 		(y) - "You toss the pebble into your mouth and swallow it quickly."

@@ -88,3 +88,259 @@ List of Acceptable General commands = "could be used at anytime"
 		dodge = "from agility, avoid an attack"	
 		stand ground = "small chance for enemy to be intimidated and flee"
 		crouch, duck = "dodge similar to jump"
+		
+	Areas & Areas Properties
+		size of area
+		items in area
+		contains danger? (has enemy/ies)
+		
+	Item Ideas
+		Weapons Ideas
+			shiv
+			dagger
+			serrated knife
+			meat cleaver
+			frying pan
+			soup ladle
+			throwing knives (-1 per attack)
+			rotten branch
+			wooden board
+			spiked board
+			chain-wrapped board
+			woodcutter's axe
+			smith's hammer
+			iron sword
+			steel sword
+			moon-forged sword (special effect?)
+			sun-forged sword (special effect?)
+			war axe
+			greatsword
+			warhammer
+			whip
+			cat-o-9-tails
+			The Pen (just a pen but mightier than the sword)
+			
+			
+		
+		Random Item Ideas
+			child's doll
+			hay bale
+			lantern
+			torch
+			table
+			desk (container)
+			chair
+			throne
+			chest (container)
+			cabinet (container)
+			dresser (container)
+			end table (container)
+			shelves (container)
+			bookcase (container)
+			showcase (container)
+			mimic?
+			campfire
+			log bench
+			logs
+			firewood
+			bucket (container)
+			rope
+			door
+			nails
+			keg
+			barrels (container)
+			casks (container)
+			chalise (container)
+			tankard (container)
+			cup (container)
+			moss
+			mold
+			water (gatherable from containers)
+			dirt (gatherable from containers)
+			mud (gatherable from containers)
+			cobwebs
+			blood (gatherable from containers)
+			bones
+			skulls
+			skeltals (doot doot)
+			leather strip
+			leather sheet
+			furs
+			papers
+			quill
+			ink well
+			stamp
+			seal
+			envelope
+			shackles
+			chains
+			ball
+			
+			
+			
+			
+			
+		Backpack Defaults (not much, the basics for survival; room for upgrading all aspects + the pack itself)
+			Backpack Size: 30 units (23 used by default)
+			
+			Assorted Food
+				Bread
+					Size: 5 units
+					Weight: .88 lbs
+					Value: 3 gold
+				Cheese
+					Size: 2 units
+					Weight: .20 lbs
+					Value: 5 gold
+			Lantern
+				Size: 10 units
+				Weight: 4 lbs
+				Value: 30 gold
+			Lantern Oil (2 uses)
+				Size: 1 unit
+				Weight: .5 lbs
+				Value: 20 gold
+			Dagger
+				Size: 3 units
+				Weight: 1.10 lbs
+				Value: 40 gold
+			Flint
+				Size: .5 units
+				Weight: .1 lbs
+				Value: 5 gold
+			Healing Salve (2 uses)
+				Size: 2 units
+				Weight: 1 lbs
+				Vaule: 60 gold
+				
+		Strict Money Makers (these hold no other purpose than to raise score/gold)
+			Ring (Base) 20 gold
+				Gold (Material) +80 gold
+					Accesories
+					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150
+					
+				Silver (Material) +30 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150				
+					
+				Platinum (Material) +120 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150	
+						
+			Necklace (Base) 60 gold
+				Gold (Material) +80 gold
+					Accesories
+					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150
+					
+				Silver (Material) +30 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150				
+					
+				Platinum (Material) +120 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150
+
+			Broach (Base) 40 gold
+				Gold (Material) +80 gold
+					Accesories
+					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150
+					
+				Silver (Material) +30 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150				
+					
+				Platinum (Material) +120 gold
+				
+					Accesories					
+					Ornate    +10
+					Jeweled   +80
+					Glowing   +150
+					
+					Conditions
+						Flawed    -20
+						Damaged   -50
+						Flawless  +100
+						Perfect   +150	
+			Crystals
+			Jewels
+			Trinkets
+			Buttons
+			Statues
+			Totem
+			
+			
+			
+			
+			
