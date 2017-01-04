@@ -9,7 +9,7 @@ Enemy Text Samples
 	Walking Bones - "very common, skellington with low base stats, slow and weak, ALMOST never crits"
 		#variety in descs would be helpful and interesting
 		is_near = "You hear rattling echoes against the hard cavern walls..."
-		is_examined = "The skeleton's bones rattle rythmically as its' souless eyes wander."
+		is_examined = "The skeleton's bones rattle rythmically as its' souless cavernous eyes wander."
 		is_defeated = "The shattered bits of bone collapse to the floor as the spirit's will fades."
 	
 	Vicious Rat - "common, ROUS, aka rodent of unusual size, makes festering wounds"
