@@ -94,6 +94,9 @@ List of Acceptable General commands = "could be used at anytime"
 		items in area
 		contains danger? (has enemy/ies)
 		is it lit fam?
+		smell
+		temperature
+		
 		
 		
 	Item Ideas
@@ -260,18 +263,44 @@ List of Acceptable General commands = "could be used at anytime"
 			
 			Ingredients
 				rotten root
+					Desc: A segment of once buried root, now dug up and overtaken by disease and corruption.
+					Value:
 				bone powder
+					Desc: The remnants of a bone from a less fortunate soul, now ground into a fine powder.
+					Value:
 				gold dust
+					Desc: The glittering powder of a very high value used in some potions.
+					Value:
 				blood
-				ink
+					Desc: The thick deep red essence of life from a less fortunate soul.
+					Value:				
+				black ink
+					Desc: A pitch-black thin fluid used to write.
+					Value:
 				blue blossom
+					Desc: A brightly colored blossom from a flowering tree with broad round leaves.
+					Value:
 				white mushroom
+					Desc: A small white-capped fungus found in dark and humid conditions.
+					Value:				
 				ivy leaf
+					Desc: The leaf of a ivy plant that once scaled walls with clinging roots.
+					Value:
 				water
+					Desc: 
+					Value:
 				shadow ashes
+					Desc: The formless delicate ashes of a now silenced restless spirit.
+					Value:
 				pearl powder
+					Desc: 
+					Value:
 				charcoal
+					Desc: 
+					Value:
 				ground honeyfruit pit
+					Desc: 
+					Value:
 				
 			Recipes
 				blue blossom + water + bone powder = healing salve
