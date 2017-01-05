@@ -1,0 +1,16 @@
+{
+	"name":"Gold Coin",
+	"weight":0.25,
+	"value":0,
+	"isWieldable":false,
+	"isContainer":false,
+	"description":[
+		"An ornately minted gold coin. On the face is carved an image of 2 swords.",
+		"If you had to guess, 1 of these coins would probably be worth 1 gold coin...."
+	],
+	"onEat":"You pop the coin into your mouth and quickly swallow it down.",
+	"eatEffect":[
+		"heal 0"
+	]
+
+}
