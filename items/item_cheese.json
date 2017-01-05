@@ -1,0 +1,18 @@
+{
+	"name":"Cheese Wheel",
+	"weight":86,
+	"value":3200,
+	"isWieldable":true,
+	"isContainer":false,
+	"description":[
+		"It's huge. You might be able to carry it if you sheathed your sword.",
+		"It's about 2 feet in diameter. This would make a mouse very happy.",
+		"You've never seen this much cheese in one place..."
+	],
+	"onEat":"You sheath your sword and begin to take bites out of the massive wheel of cheese. You get about half way through before you realize this was probably not a smart idea and decide to put down the unfinished half.",
+	"eatEffect":[
+		"heal 30",
+		"spawn item_cheese_2"
+	]
+
+}

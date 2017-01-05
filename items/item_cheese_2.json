@@ -1,0 +1,17 @@
+{
+	"name":"Half Eaten Cheese Wheel",
+	"weight":43,
+	"value":2,
+	"isWieldable":true,
+	"isContainer":false,
+	"description":[
+		"",
+		"",
+		""
+	],
+	"onEat":"You take a breathe before you stuff your face back down into the aromatic cheese. As you hesitantly swallow the last bite, you feel accomplished and noticably heavier.",
+	"eatEffect":[
+		"heal 3"
+	]
+
+}
